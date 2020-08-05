@@ -22,7 +22,6 @@ namespace FizzBuzzPlay
 
             if (str.Length == 0)
             {
-                Console.WriteLine();
                 str = number.ToString();
             }
 
